@@ -9,6 +9,9 @@ Welcome to the Financial and Managerial Accounting repository. This repository c
 ![Structured Programming](structuredprogrammingbanner.PNG)
   
 <br />  
+Check out the playlist now and start your learning journey: [Financial-and-Managerial-Accounting-GED-401 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjsm4_JTG3Pvc7wgva-cx3yQ&si=gipLEXV_A_A8tfdd)
+**Happy Learning!**
+<br /> 
 ## Table of Contents
 
 - [Introduction](#introduction)
