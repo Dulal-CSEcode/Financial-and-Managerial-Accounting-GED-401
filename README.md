@@ -11,7 +11,8 @@ Welcome to the Financial and Managerial Accounting repository. This repository c
 <br />  
 <br /> 
 <br /> 
-Check out the playlist now and start your learning journey: [Financial-and-Managerial-Accounting-GED-401 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjuoqsICuVclwEfn9-THFJfP&si=TymJ5-NbHyxd9-rP)
+Check out the playlist now and start your learning journey: 
+[Financial-and-Managerial-Accounting-GED-401 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjuoqsICuVclwEfn9-THFJfP&si=TymJ5-NbHyxd9-rP)
 **Happy Learning!**
 <br /> 
 <br /> 
@@ -159,5 +160,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 <br/>
 <h2 align="center"> Thanks for visiting the Financial-and-Managerial-Accounting-GED-401 repository.</h2>
 <h3 align="center">© All rights reserved by Dulal-CSEcode @2024 © Department of Computer Science and Engineering, GUB </h3>
-
-Financial and Managerial Accounting-GED 401 Lecture youtube playlist : https://youtube.com/playlist?list=PLEc-WcPXUsjuoqsICuVclwEfn9-THFJfP&amp;si=jP4TLv6Gp8wE_MzA
