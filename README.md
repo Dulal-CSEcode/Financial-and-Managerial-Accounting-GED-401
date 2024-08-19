@@ -4,9 +4,11 @@
 Welcome to the Financial and Managerial Accounting repository. This repository contains course materials, assignments, and resources for the Financial and Managerial Accounting course.
 <br />
 
-![Accounting](accountingbanner.png)
+<img/>
 
-<br />
+![Structured Programming](structuredprogrammingbanner.PNG)
+  
+<br />  
 ## Table of Contents
 
 - [Introduction](#introduction)
