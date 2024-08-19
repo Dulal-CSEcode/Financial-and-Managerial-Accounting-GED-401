@@ -6,7 +6,7 @@ Welcome to the Financial and Managerial Accounting repository. This repository c
 
 <img/>
 
-![Structured Programming](structuredprogrammingbanner.PNG)
+![Financial-and-Managerial-Accounting](ged401banner.PNG)
   
 <br />  
 <br /> 
