@@ -3,12 +3,6 @@
 <br />
 Welcome to the Financial and Managerial Accounting repository. This repository contains course materials, assignments, and resources for the Financial and Managerial Accounting course.
 <br />
-
-<img/>
-
-![Financial-and-Managerial-Accounting](ged401banner.PNG)
-  
-<br />  
 <br /> 
 <br /> 
 Check out the playlist now and start your learning journey: 
@@ -16,6 +10,12 @@ Check out the playlist now and start your learning journey:
 **Happy Learning!**
 <br /> 
 <br /> 
+<img/>
+
+![Financial-and-Managerial-Accounting](ged401banner.PNG)
+  
+<br />  
+
 <br /> 
 ## Table of Contents
 
